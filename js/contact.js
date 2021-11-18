@@ -35,11 +35,11 @@
             },
             messages: {
                 name: {
-                    required: "come on, your name, don't you?",
+                    required: "Enter your name please.",
                     minlength: "your name must consist of at least 2 characters"
                 },
                 name2: {
-                    required: "come on, you have a name, don't you?",
+                    required: "Enter your name please.",
                     minlength: "your name must consist of at least 2 characters"
                 },
                 email: {
@@ -49,8 +49,8 @@
                     required: "please input your subject"
                 },
                 message: {
-                    required: "um...yea, you have to write something to send this form.",
-                    minlength: "thats all? really?"
+                    required: "Please write.",
+                    minlength: "Your message must consist of at least 12 characters"
                 }
             },
             submitHandler: function(form) {

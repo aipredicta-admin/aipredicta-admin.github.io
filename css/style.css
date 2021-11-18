@@ -456,17 +456,17 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .btn_three {
   font: 500 14px "Poppins", sans-serif;
   color: #fff;
-  background: #7444fd;
+  background: #00008b;
   border-radius: 3px;
   padding: 15px 30px;
-  border: 1px solid #7444fd;
+  border: 1px solid #00008b;
   margin-top: 50px;
   transition: all 0.3s linear;
   cursor: pointer;
   display: inline-block;
 }
 .btn_three:hover {
-  color: #7444fd;
+  color: #00008b;
   background: transparent;
 }
 
@@ -3922,9 +3922,9 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 /*====================================================*/
 /*================= Start breadcrumb_area css =================*/
 .breadcrumb_area {
-  background-image: -moz-linear-gradient(180deg, #5e2ced 0%, #a485fd 100%);
-  background-image: -webkit-linear-gradient(180deg, #5e2ced 0%, #a485fd 100%);
-  background-image: -ms-linear-gradient(180deg, #5e2ced 0%, #a485fd 100%);
+  background-image: -moz-linear-gradient(180deg, #22186e 0%, #0e044b 100%);
+  background-image: -webkit-linear-gradient(180deg, #22186e 0%, #0e044b 100%);
+  background-image: -ms-linear-gradient(180deg, #22186e 0%, #0e044b 100%);
   position: relative;
   z-index: 1;
   padding: 235px 0px 125px;
