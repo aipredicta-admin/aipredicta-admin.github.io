@@ -429,6 +429,13 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   color: #5e2ced;
 }
 
+.btn-container, .container {
+	background-color: white;
+	border-radius: 4px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
 /* 3D Button */
 .btn-3d {
 	position: relative;
@@ -452,15 +459,15 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .btn-3d.green {
 	background-color: #82c8a0;
 	box-shadow: 0 0 0 1px #82c8a0 inset,
-				0 0 0 2px rgba(255,255,255,0.15) inset,
-				0 8px 0 0 rgba(126, 194, 155, .7),
-				0 8px 0 1px rgba(0,0,0,.4),
-				0 8px 8px 1px rgba(0,0,0,0.5);
+		0 0 0 2px rgba(255,255,255,0.15) inset,
+		0 8px 0 0 rgba(126, 194, 155, .7),
+		0 8px 0 1px rgba(0,0,0,.4),
+		0 8px 8px 1px rgba(0,0,0,0.5);
 }
 .btn-3d.green:active {
 	box-shadow: 0 0 0 1px #82c8a0 inset,
-				0 0 0 2px rgba(255,255,255,0.15) inset,
-				0 0 0 1px rgba(0,0,0,0.4);
+		0 0 0 2px rgba(255,255,255,0.15) inset,
+		0 0 0 1px rgba(0,0,0,0.4);
 }
 
 .price_btn {
