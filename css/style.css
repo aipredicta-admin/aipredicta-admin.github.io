@@ -429,12 +429,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   color: #5e2ced;
 }
 
-.btn-container, .container {
-	background-color: white;
-	border-radius: 4px;
-	text-align: center;
-	margin-bottom: 40px;
-}
+
 
 /* 3D Button */
 .btn-3d {
